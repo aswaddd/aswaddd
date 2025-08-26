@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Aswad 
 
-<!--
-**aswaddd/aswaddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Hong Kong Baptist University.  
+Aspiring software developer focused on building fullstack systems with clean logic and scalable infrastructure.  
 
-Here are some ideas to get you started:
+## Tech Stack
+- React · Next · Vue
+- Flask · Node · Spring Boot
+- MySQL · PostgreSQL · DynamoDB · MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previous Work
+- **Hospital Authority** - Hong Kong's public hospital governing body.
+- **ReCube** – Reusable tableware app with AWS-powered automation and user notifications. 
+- **FansWiFi** – Captive Wi-Fi portal with social logins and Twilio integrations.  
+- **RightPick** – University program recommender with Flask backend and MySQL data ops.  
+
+## Reach Me
+[GitHub](https://github.com/aswaddd) · [LinkedIn](https://www.linkedin.com/in/aswadtariq)
