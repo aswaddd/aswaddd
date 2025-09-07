@@ -1,18 +1,15 @@
 # Hey, I'm Aswad 
 
 Computer Science student at Hong Kong Baptist University.  
-Aspiring software developer focused on building fullstack systems with clean logic and scalable infrastructure.  
+Aspiring software developer.
 
 ## Tech Stack
-- React · Next · Vue
-- Flask · Node · Spring Boot
-- MySQL · PostgreSQL · DynamoDB · MongoDB
+- React (Web & Native) · Next · Vue
+- Node · Spring Boot
+- PostgreSQL · DynamoDB · MongoDB
 
-## Previous Work
-- **Hospital Authority** - Hong Kong's public hospital governing body.
-- **ReCube** – Reusable tableware app with AWS-powered automation and user notifications. 
-- **FansWiFi** – Captive Wi-Fi portal with social logins and Twilio integrations.  
-- **RightPick** – University program recommender with Flask backend and MySQL data ops.  
+## Preferred Language
+Java 8
 
-## Reach Me
-[GitHub](https://github.com/aswaddd) · [LinkedIn](https://www.linkedin.com/in/aswadtariq)
+## Profile links
+[GitHub](https://github.com/aswaddd) · [LinkedIn](https://www.linkedin.com/in/aswadtariq) · [HackerRank](https://www.hackerrank.com/profile/aswad_m_tariq13)
