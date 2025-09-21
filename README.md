@@ -3,8 +3,8 @@
 Computer Science student at Hong Kong Baptist University.  
 Aspiring software developer.
 
-## Tech Stack
-- React (Web & Native) · Next · Vue
+## Familiar with
+- React · Next · Vue
 - Node · Spring Boot
 - PostgreSQL · DynamoDB · MongoDB
 
@@ -12,4 +12,4 @@ Aspiring software developer.
 Java 8
 
 ## Profile links
-[GitHub](https://github.com/aswaddd) · [LinkedIn](https://www.linkedin.com/in/aswadtariq) · [HackerRank](https://www.hackerrank.com/profile/aswad_m_tariq13)
+[GitHub](https://github.com/aswaddd) · [LinkedIn](https://www.linkedin.com/in/aswadtariq) 
