@@ -1,15 +1,14 @@
-# Hey, I'm Aswad 
+# hello 
 
-Computer Science student at Hong Kong Baptist University.  
-Aspiring software developer.
+i'll be using this instead of a personal website.
 
-## Familiar with
-- React · Next · Vue
-- Node · Spring Boot
-- PostgreSQL · DynamoDB · MongoDB
+## familiar with
+- react · next · vue
+- node · spring Boot
+- postgresql · dynamodb · mongodb
 
-## Preferred Language
-Java 8
+## preferred language
+java 8
 
-## Profile links
-[GitHub](https://github.com/aswaddd) · [LinkedIn](https://www.linkedin.com/in/aswadtariq) 
+## profile links
+[gitHub](https://github.com/aswaddd) · [linkedIn](https://www.linkedin.com/in/aswadtariq) 
