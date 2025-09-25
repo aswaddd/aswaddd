@@ -7,8 +7,8 @@ here's a summary of what i've learnt so far.
 - node · spring Boot
 - postgresql · dynamodb · mongodb
 
-## preferred language
+## preferred programming language
 java 8
 
 ## profile links
-[gitHub](https://github.com/aswaddd) · [linkedIn](https://www.linkedin.com/in/aswadtariq) 
+[github](https://github.com/aswaddd) · [linkedin](https://www.linkedin.com/in/aswadtariq) 
