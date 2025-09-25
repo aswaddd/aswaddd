@@ -1,6 +1,6 @@
 # hello 
 
-i'll be using this instead of a personal website.
+here's a summary of what i've learnt so far.
 
 ## familiar with
 - react · next · vue
