@@ -1,7 +1,4 @@
-# hello 
-
-here's a summary of what i've done so far.
-
+# Aswad's Summary
 ## familiar with
 
 - react · next · vue
