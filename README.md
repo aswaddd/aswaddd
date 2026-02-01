@@ -1,4 +1,4 @@
-# summary
+# on the journey to get cracked (pause)
 ## familiar with
 
 - react · expo · next · vue
