@@ -1,7 +1,7 @@
 # summary
 ## familiar with
 
-- react · next · vue
+- react · expo · next · vue
 - node · express · spring boot
 - postgresql · dynamodb · mongodb
 
